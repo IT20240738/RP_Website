@@ -1757,7 +1757,7 @@ section {
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #0986e7;
+  background: #060b0d;
   color: #fff;
 }
 
@@ -1786,7 +1786,7 @@ section {
 .contact .php-email-form .sent-message {
   display: none;
   color: #fff;
-  background: #1babe9;
+  background: #060b0d;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1806,7 +1806,7 @@ section {
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #1babe9;
+  border: 3px solid #060b0d;
   border-top-color: #eee;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
@@ -1828,7 +1828,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #4497d6;
+  background: #060b0d;
   border: 0;
   padding: 10px 24px;
   color: #fff;
